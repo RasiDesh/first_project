@@ -1,2 +1,2 @@
-# first_projects
-My first projects : Sentiment analysis and Audiobook maker
+# first_project
+My first project : Sentiment analysis using Python
