@@ -1,3 +1,5 @@
+#Sentiment analysis using matplotlib and textblob library
+
 import matplotlib.pyplot as plt
 from textblob import TextBlob
 
